@@ -5,5 +5,6 @@ public class App {
         System.out.println("¡Hola desde Java en VS Code!");
         System.out.println("Nueva línea desde el editor de GIthub");
         System.out.println("Nuevas modificaciones");
+        System.out.println("Nuevas modificaciones2");
     }
 }
